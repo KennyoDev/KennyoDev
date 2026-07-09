@@ -1,4 +1,4 @@
-Software Engineer Student
+Software Developer
 
 
 # Stack:
